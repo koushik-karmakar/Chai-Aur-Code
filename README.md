@@ -105,9 +105,12 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 
 #  Projects
-│ ├── Local Services Booking Platform | Rental Listings & Move-in Platform | Collaborative Trip Planning
-│ 
-└──  resources
+│ ├── Local Services Booking Platform 
+
+│ ├── Rental Listings & Move-in Platform 
+
+│ ├── Collaborative Trip Planning
+
 
 
 
