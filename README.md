@@ -18,6 +18,7 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 # cohort-journey
 │
 ├──  Daily-notes
+
 │ ├── day-01-Internet(17/1/2026)
 
 │ ├── day-02-Protocol(18/1/2026)
@@ -56,28 +57,46 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 #  Assignments
 │ ├── js-conditionals
+
 │ ├── js-datatypes-foundation
+
 │ ├── js-datatypes
+
 │ ├── js-functions
+
 │ ├── js-loops
 
 
 
 #  Blogs
 │ ├── [DNS Work Process](https://dnsworkprocess.hashnode.dev/)
+
 │ ├── [Hardware Networking System](https://hardware-networking-system.hashnode.dev/)
+
 │ ├── [DNS Records](https://dns-records-by-koushik.hashnode.dev/)
+
 │ ├── [cURL](https://curl-for-beginners-by-koushik.hashnode.dev/)
-│ ├── [[Why Version Control Exists](https://why-version-control-exists-by-koushik.hashnode.dev/)]
+
+│ ├── [Why Version Control Exists](https://why-version-control-exists-by-koushik.hashnode.dev/)
+
 │ ├── [Git](https://git-for-beginners-by-koushik.hashnode.dev/)
+
 │ ├── [TCP vs UDP](https://tcp-vs-udp-by-koushik.hashnode.dev/)
+
 │ ├── [Git Internal](https://how-git-works-internally-by-koushik.hashnode.dev/)
+
 │ ├── [TCP - 3 Way Handshake](https://how-tcp-work-3-way-handshake-by-koushik.hashnode.dev/)
+
 │ ├── [Browser Internals](https://browser-internals-by-koushik.hashnode.dev/)
+
 │ ├── [HTML Tags and Elements](https://html-tags-and-elements-by-koushik.hashnode.dev/)
+
 │ ├── [Browser Internals](https://browser-internals-by-koushik.hashnode.dev/)
+
 │ ├── [CSS Selectors](https://css-selectors-by-koushik.hashnode.dev/)
+
 │ ├── [Emmet for HTML](https://emmet-for-html-by-koushik.hashnode.dev/)
+
 │ ├── [JavaScript Promises](https://javascript-promises-by-koushik.hashnode.dev/)
 
 
