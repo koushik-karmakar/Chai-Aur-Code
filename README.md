@@ -15,30 +15,46 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 ##  Repository Structure
 
-cohort-journey/
+# cohort-journey
 │
-├──  daily-notes
+├──  Daily-notes
 │ ├── day-01-Internet(17/1/2026)
+
 │ ├── day-02-Protocol(18/1/2026)
+
 │ ├── day-03-Browser-Html(24/1/2026)
+
 │ ├── day-04-CSS-Box-Model(29/1/2026)
+
 │ ├── day-05-Flexbox(31/1/2026)
+
 │ ├── day-06-Grid + Tailwindcss(1/2/2026)
+
 │ ├── day-07-JavaScript(7/2/2026)
+
 │ ├── day-08-Js-Datatype(12/2/2026)
+
 │ ├── day-09-Js-Scope+Datatpes(14/2/2026)
+
 │ ├── day-10-Js-Array+Loop+Objects(15/2/2026)
+
 │ ├── day-11-Js-Assignment(19/2/2026)
+
 │ ├── day-12-Objact-Oriented-Js(21/2/2026)
+
 │ ├── day-13-Js-Oops(22/2/2026)
+
 │ ├── day-14-Js-Objects(26/2/2026)
+
 │ ├── day-15-Js-Promises(28/2/2026)
+
 │ ├── day-16-Js-Closures(1/3/2026)
+
 │ ├── day-17-Js-Objects(26/2/2026)
 
 
 
-##  Assignments
+#  Assignments
 │ ├── js-conditionals
 │ ├── js-datatypes-foundation
 │ ├── js-datatypes
@@ -47,7 +63,7 @@ cohort-journey/
 
 
 
-##  Blogs
+#  Blogs
 │ ├── [DNS Work Process](https://dnsworkprocess.hashnode.dev/)
 │ ├── [Hardware Networking System](https://hardware-networking-system.hashnode.dev/)
 │ ├── [DNS Records](https://dns-records-by-koushik.hashnode.dev/)
@@ -67,7 +83,7 @@ cohort-journey/
 
 
 
-##  Projects
+#  Projects
 │ ├── Local Services Booking Platform | Rental Listings & Move-in Platform | Collaborative Trip Planning
 │ 
 └──  resources
