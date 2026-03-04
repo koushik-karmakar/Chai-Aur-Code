@@ -35,15 +35,19 @@ cohort-journey/
 │ ├── day-15-Js-Promises(28/2/2026)
 │ ├── day-16-Js-Closures(1/3/2026)
 │ ├── day-17-Js-Objects(26/2/2026)
-│
-├──  assignments
+
+
+
+##  Assignments
 │ ├── js-conditionals
 │ ├── js-datatypes-foundation
 │ ├── js-datatypes
 │ ├── js-functions
 │ ├── js-loops
-│
-├──  blogs
+
+
+
+##  Blogs
 │ ├── [DNS Work Process](https://dnsworkprocess.hashnode.dev/)
 │ ├── [Hardware Networking System](https://hardware-networking-system.hashnode.dev/)
 │ ├── [DNS Records](https://dns-records-by-koushik.hashnode.dev/)
@@ -59,8 +63,11 @@ cohort-journey/
 │ ├── [CSS Selectors](https://css-selectors-by-koushik.hashnode.dev/)
 │ ├── [Emmet for HTML](https://emmet-for-html-by-koushik.hashnode.dev/)
 │ ├── [JavaScript Promises](https://javascript-promises-by-koushik.hashnode.dev/)
-│
-├──  projects
+
+
+
+
+##  Projects
 │ ├── Local Services Booking Platform | Rental Listings & Move-in Platform | Collaborative Trip Planning
 │ 
 └──  resources
@@ -74,7 +81,7 @@ cohort-journey/
 
 
 
-                                                                          I believe consistent daily learning builds great engineers.
+I believe consistent daily learning builds great engineers.
 
 
 
