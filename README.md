@@ -101,6 +101,10 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [JavaScript Promises](https://javascript-promises-by-koushik.hashnode.dev/)
 
+│ ├── [JavaScript Operators](https://javascript-operators-by-koushik.hashnode.dev/javascript-operators-the-concept-every-beginner-need-to-know)
+
+│ ├── [JavaScript Array Methods](https://array-methods-by-koushik.hashnode.dev/mastering-javascript-array-methods-the-developer-s-ultimate-guide)
+
 
 
 
