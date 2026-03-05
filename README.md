@@ -51,9 +51,7 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-16-Js-Closures(1/3/2026)
 
-│ ├── day-17-Js-Objects(26/2/2026)
-
-│ ├── day-17-Js-Closures+DOM(1/3/2026)
+│ ├── day-17-Js-Revition+Map+Set+WeakMap+WeakSet+Date(5/3/2026)
 
 
 
