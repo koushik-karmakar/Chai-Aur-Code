@@ -105,6 +105,7 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [JavaScript Array Methods](https://array-methods-by-koushik.hashnode.dev/mastering-javascript-array-methods-the-developer-s-ultimate-guide)
 
+│ ├── [this, call(), apply() & bind() in JavaScript](https://the-magic-of-this-call-apply-bind-in-javascript-by-koushik.hashnode.dev/how-this-call-apply-and-bind-works-in-javascript)
 
 
 
