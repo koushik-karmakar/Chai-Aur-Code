@@ -55,20 +55,21 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-17-Js-Revition by Peer Student(6/3/2026)
 
-│ ├── day-17-Js-Http-Method+TypeScript+NodeJs(7/3/2026)
+│ ├── day-17-Ts-Http-Method+TypeScript+NodeJs(7/3/2026)
+
+│ ├── day-17-Ts-Express(TS)+TypeScript+NodeJs(TS)(8/3/2026)
 
 
+#  Github Classroom Assignments
+│ ├── [js-conditionals](https://github.com/chaicodehq/js-conditionals-koushik-karmakar)
 
-#  Assignments
-│ ├── js-conditionals
+│ ├── [js-datatypes-foundation](https://github.com/chaicodehq/js-datatypes-foundation-koushik-karmakar)
 
-│ ├── js-datatypes-foundation
+│ ├── [js-datatypes](https://github.com/chaicodehq/js-datatypes-koushik-karmakar)
 
-│ ├── js-datatypes
+│ ├── [js-functions](https://github.com/chaicodehq/js-functions-koushik-karmakar)
 
-│ ├── js-functions
-
-│ ├── js-loops
+│ ├── [js-loops](https://github.com/chaicodehq/js-loops-koushik-karmakar)
 
 
 
@@ -109,6 +110,7 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [this, call(), apply() & bind(z) in JavaScript](https://the-magic-of-this-call-apply-bind-in-javascript-by-koushik.hashnode.dev/how-this-call-apply-and-bind-works-in-javascript)
 
+│ ├── [Understanding Variables and Data Types in JavaScript](https://understanding-variables-datatypes-javascript-by-koushik.hashnode.dev/understanding-variables-and-data-types-in-javascript)
 
 
 #  Projects
