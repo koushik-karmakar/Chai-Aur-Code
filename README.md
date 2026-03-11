@@ -114,6 +114,10 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 
 #  Projects
+│ ├── HTML Resume Page 
+
+│ ├── [Dev Tool Landing Page - Cursor](http://cursor.koushikkarmakar.in)
+
 │ ├── Local Services Booking Platform 
 
 │ ├── Rental Listings & Move-in Platform 
