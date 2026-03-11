@@ -112,6 +112,13 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Understanding Variables and Data Types in JavaScript](https://understanding-variables-datatypes-javascript-by-koushik.hashnode.dev/understanding-variables-and-data-types-in-javascript)
 
+│ ├── [Control Flow in JavaScript: If, Else, and Switch](https://if-else-switch-by-koushik.hashnode.dev/control-flow-javascript)
+
+│ ├── [JavaScript Array](https://javascript-arrays-by-koushik.hashnode.dev/javascript-array-learn-how-js-array-methods-work-with-examples-and-cheat-sheet)
+
+│ ├── [Understanding Objects in JavaScript](https://objects-in-javascript-by-koushik.hashnode.dev/javascript-objects)
+
+
 
 #  Projects
 │ ├── HTML Resume Page 
