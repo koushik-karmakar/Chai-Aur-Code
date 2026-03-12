@@ -118,6 +118,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Understanding Objects in JavaScript](https://objects-in-javascript-by-koushik.hashnode.dev/javascript-objects)
 
+│ ├── [Function Declaration vs Function Expression in JavaScript](https://function-declaration-vs-function-expression-koushik.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference)
+
 
 
 #  Projects
