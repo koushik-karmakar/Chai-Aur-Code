@@ -61,6 +61,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-21-Js-DOM(12/3/2026)
 
+│ ├── day-22-Js-HTML+Form Validation(13/3/2026)
+
 
 
 #  Github Classroom Assignments
@@ -122,6 +124,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 │ ├── [Understanding Objects in JavaScript](https://objects-in-javascript-by-koushik.hashnode.dev/javascript-objects)
 
 │ ├── [Function Declaration vs Function Expression in JavaScript](https://function-declaration-vs-function-expression-koushik.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference)
+
+│ ├── [Arrow Functions in JavaScript](https://arrow-functions-in-javascript-by-koushik.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions)
 
 
 
