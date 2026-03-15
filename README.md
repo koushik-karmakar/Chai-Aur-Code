@@ -129,6 +129,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Arrow Functions in JavaScript](https://arrow-functions-in-javascript-by-koushik.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions)
 
+│ ├── [Object-Oriented Programming in JavaScript](https://object-oriented-programming-in-javascript-by-koushik.hashnode.dev/object-oriented-programming)
+
 
 
 #  Projects
