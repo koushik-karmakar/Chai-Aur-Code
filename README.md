@@ -69,6 +69,12 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-25-Js-DOM_Event(19/3/2026)
 
+│ ├── day-26-Js-Peer Class-TailwindCSS(20/3/2026)
+
+│ ├── day-27-Js-Express APIs(21/3/2026)
+
+│ ├── day-28-Js-Express API-2 + Auth(22/3/2026)
+
 
 
 #  Github Classroom Assignments
@@ -147,6 +153,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 │ ├── Rental Listings & Move-in Platform 
 
 │ ├── Collaborative Trip Planning
+
+│ ├── [Build Your Own Tailwind](https://github.com/koushik-karmakar/chaiwindcss.git)
 
 
 
