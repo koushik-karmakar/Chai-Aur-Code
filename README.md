@@ -77,6 +77,12 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-28-Js-Oops+Prototype(26/3/2026)
 
+│ ├── day-28-Js-Peer CLass-Js Fundamental(27/3/2026)
+
+│ ├── day-28-Js-MongoDB+Mongoose+Middleware(28/3/2026)
+
+│ ├── day-28-Js-PostgreSQL+Drizzle+Middlewares+TypeScript(29/3/2026)
+
 
 
 #  Github Classroom Assignments
