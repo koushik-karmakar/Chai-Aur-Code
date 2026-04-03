@@ -149,7 +149,7 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Object-Oriented Programming in JavaScript](https://object-oriented-programming-in-javascript-by-koushik.hashnode.dev/object-oriented-programming)
 
-│ ├── [Object-Oriented Programming in JavaScript](https://object-oriented-programming-in-javascript-by-koushik.hashnode.dev/object-oriented-programming)
+│ ├── [JavaScript Modules: Import and Export](https://javascrip-tmodules-import-export-by-koushik.hashnode.dev/javascript-modules-import-and-export)
 
 
 
