@@ -75,13 +75,15 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-28-Js-Express API-2 + Auth(22/3/2026)
 
-│ ├── day-28-Js-Oops+Prototype(26/3/2026)
+│ ├── day-29-Js-Oops+Prototype(26/3/2026)
 
-│ ├── day-28-Js-Peer CLass-Js Fundamental(27/3/2026)
+│ ├── day-30-Js-Peer CLass-Js Fundamental(27/3/2026)
 
-│ ├── day-28-Js-MongoDB+Mongoose+Middleware(28/3/2026)
+│ ├── day-31-Js-MongoDB+Mongoose+Middleware(28/3/2026)
 
-│ ├── day-28-Js-PostgreSQL+Drizzle+Middlewares+TypeScript(29/3/2026)
+│ ├── day-32-Js-PostgreSQL+Drizzle+Middlewares+TypeScript(29/3/2026)
+
+│ ├── day-33-Js-T-Class-TypeScript Revision(3/4/2026)
 
 
 
