@@ -149,6 +149,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Object-Oriented Programming in JavaScript](https://object-oriented-programming-in-javascript-by-koushik.hashnode.dev/object-oriented-programming)
 
+│ ├── [Object-Oriented Programming in JavaScript](https://object-oriented-programming-in-javascript-by-koushik.hashnode.dev/object-oriented-programming)
+
 
 
 #  Projects
@@ -162,7 +164,7 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── Collaborative Trip Planning
 
-│ ├── [Build Your Own Tailwind](https://github.com/koushik-karmakar/chaiwindcss.git)
+│ ├── [Build My Own Tailwind](https://github.com/koushik-karmakar/chaiwindcss.git)
 
 
 
@@ -173,10 +175,4 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
  
 
 
-
 I believe consistent daily learning builds great engineers.
-
-
-
-
-
