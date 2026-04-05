@@ -85,6 +85,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-33-Js-T-Class-TypeScript Revision(3/4/2026)
 
+│ ├── day-34-Js-Database(4/4/2026)
+
 
 
 #  Github Classroom Assignments
