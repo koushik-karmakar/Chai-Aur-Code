@@ -85,7 +85,9 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-33-Js-T-Class-TypeScript Revision(3/4/2026)
 
-│ ├── day-34-Js-Database(4/4/2026)
+│ ├── day-34-Js-SQL-Database(4/4/2026)
+
+│ ├── day-35-Js-SQL-Database-Indexes+ACID+JOIN(5/4/2026)
 
 
 
