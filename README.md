@@ -89,6 +89,10 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-35-Js-SQL-Database-Indexes+ACID+JOIN(5/4/2026)
 
+│ ├── day-36-Resume-CV-Making-Session(9/4/2026)
+
+│ ├── day-37-Js-Peer-Class-Async/ES6/Oops(10/4/2026)
+
 
 
 #  Github Classroom Assignments
