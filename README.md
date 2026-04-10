@@ -157,6 +157,10 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [JavaScript Modules: Import and Export](https://javascrip-tmodules-import-export-by-koushik.hashnode.dev/javascript-modules-import-and-export)
 
+│ ├── [Array Flattening in JavaScript](https://array-flatten-in-javascript-by-koushik.hashnode.dev/array-flattening-in-javascript-a-comprehensive-guide)
+
+│ ├── [Template Literals in JavaScript](https://template-literals-in-javascript-by-koushik.hashnode.dev/template-literals-in-javascript)
+
 
 
 #  Projects
@@ -172,6 +176,16 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Build My Own Tailwind](https://github.com/koushik-karmakar/chaiwindcss.git)
 
+
+
+# Database Design 
+│ ├── [Instagram Thrift Creator Store Database Design](https://github.com/koushik-karmakar/Instagram-Thrift-Creator-Store-Database-Design.git)
+
+│ ├── [Fitness Influencer Coaching Platform Database Design](https://github.com/koushik-karmakar/Fitness-Influencer-Coaching-Platform-Database-Design.git)
+
+│ ├── [Clinic Appointment and Diagnostics Platform Database Design](https://github.com/koushik-karmakar/Clinic-Appointment-and-Diagnostics-Platform-Database-Design.git)
+
+│ ├── [Comic Con Parking System Database Design](https://github.com/koushik-karmakar/Comic-Con-Parking-System-Database-Design.git)
 
 
 
