@@ -165,6 +165,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Template Literals in JavaScript](https://template-literals-in-javascript-by-koushik.hashnode.dev/template-literals-in-javascript)
 
+│ ├── [Callbacks in JavaScript](https://callbacks-in-javascript-by-koushik.hashnode.dev/callbacks-in-javascript)
+
 
 
 #  Projects
@@ -191,12 +193,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Comic Con Parking System Database Design](https://github.com/koushik-karmakar/Comic-Con-Parking-System-Database-Design.git)
 
+│ ├── [Smart Elevator Control Database Design](https://github.com/koushik-karmakar/Smart-Elevator-Control-Database-Design.git)
 
-
-##  Featured Projects
-- E-Learning Platform
-- Realtime Group Chat Application
- 
 
 
 I believe consistent daily learning builds great engineers.
