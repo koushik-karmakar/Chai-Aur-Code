@@ -171,6 +171,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Callbacks in JavaScript](https://callbacks-in-javascript-by-koushik.hashnode.dev/callbacks-in-javascript)
 
+│ ├── [The new Keyword in JavaScript](https://the-new-keyword-in-javascript-by-koushik.hashnode.dev/new-keyword-in-javascript)
+
 
 
 #  Projects
