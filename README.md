@@ -93,6 +93,10 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-37-Js-Peer-Class-Async/ES6/Oops(10/4/2026)
 
+│ ├── day-38-Js-Fs-in-node.js(11/4/2026)
+
+│ ├── day-39-Js-IPL-Management-System(12/4/2026)
+
 
 
 #  Github Classroom Assignments
