@@ -190,7 +190,7 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── [Build My Own Tailwind](https://github.com/koushik-karmakar/chaiwindcss.git)
 
-│ ├── [Book My Ticket](https://github.com/koushik-karmakar/book-my-ticket.git) [View](https://book-my-ticket.koushikkarmakar.in)
+│ ├── [Book My Ticket](https://github.com/koushik-karmakar/book-my-ticket.git)     [View](https://book-my-ticket.koushikkarmakar.in)
 
 
 
