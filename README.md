@@ -97,6 +97,8 @@ The goal is to maintain consistency, improve problem-solving skills, and build p
 
 │ ├── day-39-Js-IPL-Management-System(12/4/2026)
 
+│ ├── day-40-Js-Interview Preparation(16/4/2026)
+
 
 
 #  Github Classroom Assignments
